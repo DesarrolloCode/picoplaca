@@ -8,3 +8,5 @@ Using object-oriented, tested code using the language that you feel most profici
 - Enter the folder and open the terminal.
 - In the terminal write "npm install" for install all dependencies
 - Once installed all dependencies write "ng serve --open" and ready
+
+Note: in the folder e2e is the unit tests
