@@ -1,27 +1,10 @@
-# Picoplaca
+# Problem
+Using object-oriented, tested code using the language that you feel most proficient in, please write a "pico y placa" predictor. The inputs should be a license plate number (the full number, not the last digit), a date (as a String), and a time, and the program will return whether or not that car can be on the road.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
+## Developed with Angular 4 and TypeScript
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Steps for run the project
+- Download the project
+- Enter the folder and open the terminal.
+- In the terminal write "npm install" for install all dependencies
+- Once installed all dependencies write "ng serve --open" and ready
