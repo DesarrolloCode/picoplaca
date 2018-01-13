@@ -9,4 +9,4 @@ Write a "pico y placa" predictor. The inputs should be a license plate number (t
 - In the terminal write "npm install" for install all dependencies
 - Once installed all dependencies write "ng serve --open" and ready
 
-Note: in the folder e2e is the unit tests
+Tutorial : https://youtu.be/Uqrf-lzXVTM 
